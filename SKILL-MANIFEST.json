@@ -1,0 +1,16 @@
+{
+  "name": "hanxu-content-review",
+  "version": "0.1.0",
+  "repository": "hanxu-content-review",
+  "distribution": "independent-skill",
+  "files": {
+    "README.md": "c7a0259b6c0f0b1e5f13b69af47629b51e082687b6993dddc630d86b63bab810",
+    "SKILL.md": "779860f6f593a1ae935406617ec1a141e42fb3e34fec11fcaf047fda0f344eaf",
+    "VALIDATION.md": "5f63be3904e3fc07f79808b1e75dad349f9f582bb73c329f1d339db718bb8640",
+    "VERSION": "e9dd8507f4bf0c6f42458e41aea833ad0bd3f6127272335eee9bf4d58541ed67",
+    "agents/openai.yaml": "5031269489cfc84da20f372f791675f193d77d55568dd5d0617e78b0aefd9796",
+    "examples/synthetic-metrics.csv": "7e1511bc3aca02dd5294785603a2b5b787a77fd6c0eb6c49f18004fd031afaa6",
+    "references/input-schema.md": "f44553575a1fc6602b9c533cae0e41ad69699504e51d783cbb9ccee3617f9a39",
+    "scripts/analyze_content_metrics.py": "75336f17d44f6294426b05a172746efb56a8244d57ccf1c4c35cae1f7a66cd30"
+  }
+}

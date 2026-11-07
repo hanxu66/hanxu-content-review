@@ -1,0 +1,8 @@
+content_id,platform,window_hours,distribution,content_type,views,likes,comments,shares,follows,completion_rate
+synthetic-1,video-account,72,organic,talking-head,100,5,1,1,0,0.25
+synthetic-2,video-account,72,organic,talking-head,200,8,2,1,1,0.30
+synthetic-3,video-account,72,organic,talking-head,300,10,2,2,1,0.20
+synthetic-4,video-account,72,organic,talking-head,400,12,3,2,1,0.35
+synthetic-5,video-account,72,organic,talking-head,500,15,,3,2,0.28
+synthetic-2,video-account,72,organic,talking-head,200,8,2,1,1,0.30
+synthetic-paid,video-account,72,paid,talking-head,1000,20,3,4,2,0.18
